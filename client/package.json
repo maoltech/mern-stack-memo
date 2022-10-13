@@ -5,6 +5,7 @@
   "proxy": "http://localhost:5000",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
+    "@material-ui/icons-material": "^5.8.4",
     "axios": "^0.21.4",
     "axioss": "0.0.1-security",
     "cra-template": "1.2.0",
